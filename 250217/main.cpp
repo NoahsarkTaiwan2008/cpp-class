@@ -1,10 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main() {
-    cout << "hello";
-    cout << "hello";
-    cout << "hello";
-    cout << "hello";cout << "hello";
-    cout << "hellox";
+    int a = 100;
+    cout << "a = " << a;
 }
